@@ -1,3 +1,3 @@
 # About
 
-This is a record of differents commands and code techniques useful in my development day life
+This is a record of differents commands, code techniques and concepts useful in my development day life
